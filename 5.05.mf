@@ -1,0 +1,7 @@
+CACHE MANIFEST
+./rop.js
+./syscalls.js
+./expl.js
+./userland.js
+./homebrew.js
+./mira.js
